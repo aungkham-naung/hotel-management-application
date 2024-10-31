@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # hotel-management-application
 # hotel-management-application
 # hotel-management-application
+# hotel-management-application
